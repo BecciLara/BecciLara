@@ -7,4 +7,4 @@
 
 ## 🌟 Projekte:
 - [Soziohelfer_Frontend](https://github.com/BecciLara/soziohelfer): Eine Mobile App um herauszufinden, welche Sozialleistungen einem zustehen.
-- [Soziohelfer_Backend](https://github.com/BecciLara/soziohelfer_backend): Das Backend der Mobile App in Springboot mit REST umgesetzt.
+- [Soziohelfer_Backend](https://github.com/BecciLara/soziohelfer_backend): Das Backend der Mobile App wurde mit Springboot als RESTful API implementiert.
